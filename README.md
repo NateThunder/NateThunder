@@ -21,41 +21,28 @@ Right now I care about one thing: shipping real projects.
 
 ---
 
-Currently Building
-## 📦 Public Repositories
+###Currently Building
+🎵 Stem Player – Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
 
-**Stem-Player (TypeScript)**  
-Direct-to-fan music platform enabling artists to sell and distribute stems independently.
+⛪ TEAM Church – Production church platform with content management, live streaming, and YouTube integration.
 
-**TEAM-Church-Glasgow (TypeScript)**  
-Production church platform with full CRUD system, YouTube API integration, live streaming support, and structured content management.
+🎤 Jonny Pettit – Custom-built musician website focused on clean presentation and artist-first design.
 
-**jonny-pettit (TypeScript)**  
-Custom-built musician website focused on clean presentation and artist branding.
+🧠 Zerua – Experimental system exploring scalable architecture and structured application design.
 
-**Zerua (TypeScript)**  
-Experimental project exploring structured architecture and scalable system design patterns.
+📋 Task Manager – Lightweight CRUD-based task tracking app built to reinforce backend fundamentals.
 
-**Task-Manager (JavaScript)**  
-Task tracking application implementing CRUD operations and backend state management fundamentals.
+🥊 Fight Swipe – Swipe-based fight comparison app exploring crowd-driven ranking mechanics.
 
-**Fight-Swipe (TypeScript)**  
-Interactive fight comparison app exploring ranking mechanics and user-driven scoring systems.
+🥋 Pocket Dojo – Martial arts themed platform experimenting with structured content and interactive flows.
 
-**Pocket-Dojo (TypeScript)**  
-Martial arts themed application experimenting with structured content systems and user interaction flows.
+⛓️ Fight Scoring – Solidity smart contract implementing deterministic on-chain fight scoring logic.
 
-**Fight-Scoring (Solidity)**  
-Solidity smart contract implementing deterministic on-chain fight scoring logic.
+🔐 mask_pin – Python utility exploring secure input handling patterns.
 
-**mask_pin (Python)**  
-Utility project focused on secure input handling concepts.
+🏦 bank-2 – Python-based banking simulation modelling account logic and transaction handling.
 
-**bank-2 (Python)**  
-Basic banking simulation modelling transaction handling and account logic.
-
-**NateThunder (Profile Config)**  
-Configuration repository used to customize and structure the GitHub profile.
+🛠️ NateThunder – GitHub profile configuration and presentation layer.
 
 ## What I’m Doing
 
