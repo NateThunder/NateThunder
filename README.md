@@ -1,5 +1,5 @@
 # Hi, I’m Nathan 
-📍 Scotland, UK | 🎷 Creative turned developer | 🚀 Building relentlessly
+Scotland, UK | Creative turned developer | Building relentlessly
 
 ![Tech Stack](https://skillicons.dev/icons?i=ts,js,node,express,react,postgres,docker,git,github)
 
@@ -11,7 +11,7 @@ Right now I care about one thing: shipping real projects.
 
 ---
 
-## 🚀 Currently Building
+Currently Building
 
 ### 🎵 [Stem Player Platform](https://github.com/NateThunder/stem-player)
 
@@ -34,7 +34,7 @@ Built for real usage, not demos.
 
 ---
 
-### 🍪 [Grown Cookies](https://github.com/NateThunder/grown-cookies)
+### [Grown Cookies](https://github.com/NateThunder/grown-cookies)
 
 E-commerce website for a cookie brand.
 
@@ -45,7 +45,7 @@ E-commerce website for a cookie brand.
 
 ---
 
-## 🧠 What I’m Doing
+## What I’m Doing
 
 Building custom websites tailored to specific needs.
 
@@ -60,16 +60,18 @@ Build. Improve. Repeat.
 
 ---
 
-## 🛠️ Tech
+## Tech Stack
 
-TypeScript  
-JavaScript  
-Node.js  
-REST APIs  
-YouTube API  
-E-commerce systems  
-Local AI models  
-LLM-assisted workflows  
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--commerce-Systems-2E8B57?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Local_AI-Models-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-Assisted_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
