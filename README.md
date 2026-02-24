@@ -21,8 +21,8 @@ Right now I care about one thing: shipping real projects.
 
 ---
 
-###Currently Building
-🎵 Stem Player – Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
+### Currently Building
+🎵 #### Stem Player – Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
 
 ⛪ TEAM Church – Production church platform with content management, live streaming, and YouTube integration.
 
