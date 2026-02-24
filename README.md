@@ -55,7 +55,7 @@ Build. Improve. Repeat.
 
 ---
 
-## 🎯 Long-Term Direction
+## Long-Term Direction
 
 Move into building dApps.  
 Push into distributed systems.  
