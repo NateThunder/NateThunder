@@ -21,28 +21,24 @@ Right now I care about one thing: shipping real projects.
 
 ---
 
-### Currently Building
-🎵 #### Stem Player – Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
+## Currently Building
+🎵 **Stem Player**– Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
 
-⛪ TEAM Church – Production church platform with content management, live streaming, and YouTube integration.
+⛪ **TEAM Church** – Production church platform with content management, live streaming, and YouTube integration.
 
-🎤 Jonny Pettit – Custom-built musician website focused on clean presentation and artist-first design.
+🎤 **Jonny Pettit** – Custom-built musician website focused on clean presentation and artist-first design.
 
-🧠 Zerua – Experimental system exploring scalable architecture and structured application design.
+🧠 **Zerua** – Experimental system exploring scalable architecture and structured application design.
 
-📋 Task Manager – Lightweight CRUD-based task tracking app built to reinforce backend fundamentals.
+📋 **Task Manager** – Lightweight CRUD-based task tracking app built to reinforce backend fundamentals.
 
-🥊 Fight Swipe – Swipe-based fight comparison app exploring crowd-driven ranking mechanics.
+🥊 **Fight Swipe** – Swipe-based fight comparison app exploring crowd-driven ranking mechanics.
 
-🥋 Pocket Dojo – Martial arts themed platform experimenting with structured content and interactive flows.
+🥋 **Pocket Dojo** – Martial arts themed platform experimenting with structured content and interactive flows.
 
-⛓️ Fight Scoring – Solidity smart contract implementing deterministic on-chain fight scoring logic.
+⛓️ **Fight Scoring** – Solidity smart contract implementing deterministic on-chain fight scoring logic.
 
-🔐 mask_pin – Python utility exploring secure input handling patterns.
-
-🏦 bank-2 – Python-based banking simulation modelling account logic and transaction handling.
-
-🛠️ NateThunder – GitHub profile configuration and presentation layer.
+🏦 **bank-2** – Python-based banking simulation modelling account logic and transaction handling.
 
 ## What I’m Doing
 
