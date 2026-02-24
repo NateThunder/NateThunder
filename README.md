@@ -19,7 +19,7 @@ Started as a jazz musician. Took discipline and improvisation into software.
 
 Right now I care about one thing: shipping real projects.
 
---
+---
 
 Currently Building
 
@@ -29,7 +29,7 @@ A platform for musicians to sell music directly from their own website.
 No third-party marketplaces. No external gatekeepers.  
 Artists keep control.
 
---
+---
 
 ### [TEAM Church Website](https://github.com/NateThunder/team-church)
 
@@ -42,7 +42,7 @@ Church platform with:
 
 Built for real usage, not demos.
 
---
+---
 
 ### [Grown Cookies](https://github.com/NateThunder/grown-cookies)
 
@@ -53,7 +53,7 @@ E-commerce website for a cookie brand.
 - Clean frontend  
 - Practical implementation  
 
---
+---
 
 ## What I’m Doing
 
@@ -68,7 +68,7 @@ Testing how far execution speed can go.
 This year is simple:  
 Build. Improve. Repeat.
 
---
+---
 
 ## 🎯 Long-Term Direction
 
@@ -77,5 +77,3 @@ Push into distributed systems.
 See what creativity looks like on-chain.
 
 Software is just another instrument.
-
----
