@@ -22,38 +22,40 @@ Right now I care about one thing: shipping real projects.
 ---
 
 Currently Building
+## 📦 Public Repositories
 
-### [Stem Player Platform](https://github.com/NateThunder/stem-player)
+**Stem-Player (TypeScript)**  
+Direct-to-fan music platform enabling artists to sell and distribute stems independently.
 
-A platform for musicians to sell music directly from their own website.  
-No third-party marketplaces. No external gatekeepers.  
-Artists keep control.
+**TEAM-Church-Glasgow (TypeScript)**  
+Production church platform with full CRUD system, YouTube API integration, live streaming support, and structured content management.
 
----
+**jonny-pettit (TypeScript)**  
+Custom-built musician website focused on clean presentation and artist branding.
 
-### [TEAM Church Website](https://github.com/NateThunder/team-church)
+**Zerua (TypeScript)**  
+Experimental project exploring structured architecture and scalable system design patterns.
 
-Church platform with:
+**Task-Manager (JavaScript)**  
+Task tracking application implementing CRUD operations and backend state management fundamentals.
 
-- Full CRUD system  
-- YouTube API integration  
-- Live streaming support  
-- Structured content management  
+**Fight-Swipe (TypeScript)**  
+Interactive fight comparison app exploring ranking mechanics and user-driven scoring systems.
 
-Built for real usage, not demos.
+**Pocket-Dojo (TypeScript)**  
+Martial arts themed application experimenting with structured content systems and user interaction flows.
 
----
+**Fight-Scoring (Solidity)**  
+Solidity smart contract implementing deterministic on-chain fight scoring logic.
 
-### [Grown Cookies](https://github.com/NateThunder/grown-cookies)
+**mask_pin (Python)**  
+Utility project focused on secure input handling concepts.
 
-E-commerce website for a cookie brand.
+**bank-2 (Python)**  
+Basic banking simulation modelling transaction handling and account logic.
 
-- Product system  
-- Checkout flow  
-- Clean frontend  
-- Practical implementation  
-
----
+**NateThunder (Profile Config)**  
+Configuration repository used to customize and structure the GitHub profile.
 
 ## What I’m Doing
 
