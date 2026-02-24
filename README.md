@@ -25,8 +25,6 @@ Right now I care about one thing: shipping real projects.
 
 ⛪ **TEAM Church** – Production church platform with content management, live streaming, and YouTube integration.
 
-🎤 **Jonny Pettit** – Custom-built musician website focused on clean presentation and artist-first design.
-
 🧠 **Zerua** – Experimental system exploring scalable architecture and structured application design.
 
 📋 **Task Manager** – Lightweight CRUD-based task tracking app built to reinforce backend fundamentals.
