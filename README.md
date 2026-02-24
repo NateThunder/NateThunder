@@ -1,32 +1,35 @@
 # Hi, I’m Nathan 
-Creative turned developer. Scotland, UK.
+📍 Scotland, UK | 🎷 Creative turned developer | 🚀 Building relentlessly
 
-I started as a jazz musician. Discipline and improvisation shaped how I think.  
-Now I apply that same mindset to building software.
+TypeScript • JavaScript • Node.js • APIs • AI-assisted development
 
-I build obsessively. I enjoy the challenge. I like solving real problems for real people.
+Deep in build mode.  
+Started as a jazz musician. Took discipline and improvisation into software.
+
+Right now I care about one thing: shipping real projects.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Currently Building
 
 ### 🎵 [Stem Player Platform](https://github.com/NateThunder/stem-player)
 
-A platform for musicians to sell their music directly from their own website.  
-No third-party marketplaces. No gatekeepers. Ownership stays with the artist.
+A platform for musicians to sell music directly from their own website.  
+No third-party marketplaces. No external gatekeepers.  
+Artists keep control.
 
 ---
 
 ### ⛪ [TEAM Church Website](https://github.com/NateThunder/team-church)
 
-A full-featured church platform including:
+Church platform with:
 
-- CRUD system for content management  
+- Full CRUD system  
 - YouTube API integration  
 - Live streaming support  
-- Events and announcements  
+- Structured content management  
 
-Built to be practical, usable, and maintainable.
+Built for real usage, not demos.
 
 ---
 
@@ -34,47 +37,47 @@ Built to be practical, usable, and maintainable.
 
 E-commerce website for a cookie brand.
 
-- Product management  
+- Product system  
 - Checkout flow  
-- Clean interface  
-- Real-world usability focus  
+- Clean frontend  
+- Practical implementation  
 
 ---
 
-## 🧠 How I Build
+## 🧠 What I’m Doing
 
-I work heavily with AI models as development accelerators.
+Building custom websites tailored to specific needs.
 
-When I run out of API credits, I switch to local models.  
-Agentic coding has accelerated how fast ideas can move.
+Working heavily with AI models to accelerate development.  
+Running local models when API credits run out.
+
+Exploring agentic coding workflows.  
+Testing how far execution speed can go.
 
 This year is simple:  
-**Build. Build. Build.**
+Build. Improve. Repeat.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech
 
 TypeScript  
 JavaScript  
 Node.js  
 REST APIs  
 YouTube API  
-E-commerce integrations  
+E-commerce systems  
 Local AI models  
-LLM-assisted development  
+LLM-assisted workflows  
 
 ---
 
 ## 🎯 Long-Term Direction
 
-I plan to move into building dApps because they are technically challenging and push architectural thinking further.
+Move into building dApps.  
+Push into distributed systems.  
+See what creativity looks like on-chain.
 
-Creativity × Discipline.  
 Software is just another instrument.
 
 ---
-
-## 📫 Connect
-
-GitHub: https://github.com/NateThunder  
