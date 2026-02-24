@@ -78,5 +78,3 @@ Software is just another instrument.
 ## 📫 Connect
 
 GitHub: https://github.com/NateThunder  
-LinkedIn: (add link)  
-Twitter/X: (add link)
