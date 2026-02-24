@@ -19,7 +19,6 @@ Started as a jazz musician. Took discipline and improvisation into software.
 
 Right now I care about one thing: shipping real projects.
 
----
 
 ## Currently Building
 🎵 **Stem Player**– Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
@@ -52,8 +51,6 @@ Testing how far execution speed can go.
 
 This year is simple:  
 Build. Improve. Repeat.
-
----
 
 ## Long-Term Direction
 
