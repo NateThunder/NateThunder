@@ -1,7 +1,8 @@
 # Hi, I’m Nathan 
 📍 Scotland, UK | 🎷 Creative turned developer | 🚀 Building relentlessly
 
-TypeScript • JavaScript • Node.js • APIs • AI-assisted development
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,node,express,react,postgres,docker,git,github)
+
 
 Deep in build mode.  
 Started as a jazz musician. Took discipline and improvisation into software.
