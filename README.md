@@ -21,21 +21,19 @@ Right now I care about one thing: shipping real projects.
 
 
 ## Currently Building
-🎵 **Stem Player**– Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
+🍪 **Grown Cookies** - Stylish ecommerce website for a boutique cookie shop with a beautiful design and an easy, enjoyable shopping experience.
 
 ⛪ **TEAM Church** – Production church platform with content management, live streaming, and YouTube integration.
 
 🧠 **Zerua** – Experimental system exploring scalable architecture and structured application design.
 
-📋 **Task Manager** – Lightweight CRUD-based task tracking app built to reinforce backend fundamentals.
+👯 **Skara2** - Modern landing page website for a Ceilidh band in Scotland, featuring a stylish design, an online enquiry form, and integrated analytics to monitor performance and audience engagement.
+
+🎵 **Stem Player**– Direct-to-fan music platform. Artists sell stems from their own site. No middlemen.
 
 🥊 **Fight Swipe** – Swipe-based fight comparison app exploring crowd-driven ranking mechanics.
 
-🥋 **Pocket Dojo** – Martial arts themed platform experimenting with structured content and interactive flows.
 
-⛓️ **Fight Scoring** – Solidity smart contract implementing deterministic on-chain fight scoring logic.
-
-🏦 **bank-2** – Python-based banking simulation modelling account logic and transaction handling.
 
 ## What I’m Doing
 
